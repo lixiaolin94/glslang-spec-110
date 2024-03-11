@@ -12,7 +12,7 @@
   "statements-and-structure": "Statements and Structure",
   "built-in-variables": "Built-In Variables",
   "built-in-functions": "Built-In Functions",
-  "shading-language-grammar": "Shading Language Grammar",
+  "grammar": "Grammar",
   "issues": {
     "title": "Issues",
     "theme": {

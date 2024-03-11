@@ -18,6 +18,10 @@ const config: DocsThemeConfig = {
     )
   },
   docsRepositoryBase: 'https://github.com/lixiaolin94/glslang-spec-110',
+  i18n: [
+    { locale: 'en-US', text: 'English' },
+    { locale: 'zh-CN', text: '中文' }
+  ],
   // footer: {
   //   text: <span>MIT 2024 &copy; <a href='https://github.com/lixiaolin94' target='_blank'>lixiaolin94</a>.</span>,
   // },

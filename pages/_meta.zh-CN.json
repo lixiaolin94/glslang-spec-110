@@ -1,0 +1,30 @@
+{
+  "*": {
+    "theme": {
+      "footer": false
+    }
+  },
+  "index": "简介",
+  "overview": "概述",
+  "basics": "基础",
+  "variables-and-types": "变量和类型",
+  "operators-and-expressions": "运算符和表达式",
+  "statements-and-structure": "语句和结构",
+  "built-in-variables": "内置变量",
+  "built-in-functions": "内置函数",
+  "grammar": "语法",
+  "issues": {
+    "title": "问题",
+    "theme": {
+      "toc": false
+    }
+  },
+  "acknowledgements": "致谢",
+  "about": "关于",
+  "original": {
+    "title": "Original Edition ↗",
+    "type": "page",
+    "href": "https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.10.pdf",
+    "newWindow": true
+  }
+}

@@ -1,4 +1,4 @@
-# Shading Language Grammar
+# Grammar
 
 The grammar is fed from the output of lexical analysis. The tokens returned from lexical analysis are
 
