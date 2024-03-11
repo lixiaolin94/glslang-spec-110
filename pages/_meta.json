@@ -1,15 +1,30 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
-  "about": {
-    "title": "About",
-    "type": "page"
+  "*": {
+    "theme": {
+      "footer": false
+    }
   },
-  "contact": {
-    "title": "Contact ↗",
+  "index": "Introduction",
+  "overview": "Overview",
+  "basics": "Basics",
+  "variables-and-types": "Variables and Types",
+  "operators-and-expressions": "Operators and Expressions",
+  "statements-and-structure": "Statements and Structure",
+  "built-in-variables": "Built-In Variables",
+  "built-in-functions": "Built-In Functions",
+  "shading-language-grammar": "Shading Language Grammar",
+  "issues": {
+    "title": "Issues",
+    "theme": {
+      "toc": false
+    }
+  },
+  "acknowledgements": "Acknowledgements",
+  "about": "About",
+  "original": {
+    "title": "Original Edition ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://registry.khronos.org/OpenGL/specs/gl/GLSLangSpec.1.10.pdf",
     "newWindow": true
   }
 }
